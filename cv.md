@@ -1,9 +1,1 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Тестовая страница</title>
-  </head>
-  <body>
-    <p>Это — моя страница</p>
-  </body>
-</html>
+
